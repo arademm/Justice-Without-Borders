@@ -9,10 +9,14 @@
   justify-content: baseline;
   align-items: baseline;
 }
+
+h1 {
+  font-weight: 600;
+}
 .nav-div {
   /* margin-left: 260px; */
   margin-left: 100px;
-  justify-content: center;
+  justify-content: right;
 }
 
 .nav-logo {
